@@ -18,7 +18,7 @@
     "@ignite-ui/ts-config": "*",
     "@ignite-ui/eslint-config": "*",
     "tsup": "^8.5.1",
-    "typescript": "^5.3.3"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
     "react": "^18.3.1"
